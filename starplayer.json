@@ -1,0 +1,112 @@
+[
+    {
+        "id": "PLY-001",
+        "name": "Kevin De Bruyne",
+        "position": "Midfielder",
+        "shirtNumber": 11,
+        "nationality": "Belgium",
+        "marketValueMillion": 70,
+        "isCaptain": false,
+        "club": "Napoli",
+        "imageUrl": "https://example.com/images/players/debruyne.jpg"
+    },
+    {
+        "id": "PLY-002",
+        "name": "Kylian Mbappé",
+        "position": "Forward",
+        "shirtNumber": 7,
+        "nationality": "France",
+        "marketValueMillion": 180,
+        "isCaptain": false,
+        "club": "Real Madrid",
+        "imageUrl": "https://example.com/images/players/mbappe.jpg"
+    },
+    {
+        "id": "PLY-003",
+        "name": "Jude Bellingham",
+        "position": "Midfielder",
+        "shirtNumber": 5,
+        "nationality": "England",
+        "marketValueMillion": 150,
+        "isCaptain": false,
+        "club": "Real Madrid",
+        "imageUrl": "https://example.com/images/players/bellingham.jpg"
+    },
+    {
+        "id": "PLY-004",
+        "name": "Harry Kane",
+        "position": "Striker",
+        "shirtNumber": 9,
+        "nationality": "England",
+        "marketValueMillion": 110,
+        "isCaptain": true,
+        "club": "Bayern Munich",
+        "imageUrl": "https://example.com/images/players/kane.jpg"
+    },
+    {
+        "id": "PLY-005",
+        "name": "Erling Haaland",
+        "position": "Striker",
+        "shirtNumber": 9,
+        "nationality": "Norway",
+        "marketValueMillion": 180,
+        "isCaptain": false,
+        "club": "Manchester City",
+        "imageUrl": "https://example.com/images/players/haaland.jpg"
+    },
+    {
+        "id": "PLY-006",
+        "name": "Lautaro Martínez",
+        "position": "Striker",
+        "shirtNumber": 10,
+        "nationality": "Argentina",
+        "marketValueMillion": 95,
+        "isCaptain": true,
+        "club": "Inter Milan",
+        "imageUrl": "https://example.com/images/players/lautaro.jpg"
+    },
+    {
+        "id": "PLY-007",
+        "name": "Mohamed Salah",
+        "position": "Winger",
+        "shirtNumber": 11,
+        "nationality": "Egypt",
+        "marketValueMillion": 65,
+        "isCaptain": false,
+        "club": "Liverpool FC",
+        "imageUrl": "https://example.com/images/players/salah.jpg"
+    },
+    {
+        "id": "PLY-008",
+        "name": "Robert Lewandowski",
+        "position": "Striker",
+        "shirtNumber": 9,
+        "nationality": "Poland",
+        "marketValueMillion": 40,
+        "isCaptain": false,
+        "club": "FC Barcelona",
+        "imageUrl": "https://example.com/images/players/lewandowski.jpg"
+    },
+    {
+        "id": "PLY-009",
+        "name": "Bukayo Saka",
+        "position": "Winger",
+        "shirtNumber": 7,
+        "nationality": "England",
+        "marketValueMillion": 120,
+        "isCaptain": false,
+        "club": "Arsenal FC",
+        "imageUrl": "https://example.com/images/players/saka.jpg"
+    },
+    {
+        "id": "PLY-010",
+        "name": "Victor Osimhen",
+        "position": "Striker",
+        "shirtNumber": 9,
+        "nationality": "Nigeria",
+        "marketValueMillion": 130,
+        "isCaptain": false,
+        "club": "Galatasaray",
+        "imageUrl": "https://example.com/images/players/osimhen.jpg"
+    }
+]

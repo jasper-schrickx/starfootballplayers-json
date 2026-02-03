@@ -1,0 +1,246 @@
+[
+    {
+        "id": "TEAM-001",
+        "name": "Napoli",
+        "description": "Italian club playing dynamic attacking football and competing at the top of Serie A.",
+        "age": 98,
+        "isActive": true,
+        "birthDate": "1926-08-01",
+        "imageUrl": "https://example.com/images/teams/napoli.jpg",
+        "league": "Serie A",
+        "titles": [
+            "Serie A",
+            "Coppa Italia"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-001",
+            "name": "Kevin De Bruyne",
+            "club": "Napoli",
+            "position": "Midfielder",
+            "shirtNumber": 11,
+            "imageUrl": "https://example.com/images/players/debruyne.jpg",
+            "marketValueMillion": 70
+        }
+    },
+    {
+        "id": "TEAM-002",
+        "name": "Real Madrid",
+        "description": "Spanish powerhouse club with massive history in domestic and European football.",
+        "age": 122,
+        "isActive": true,
+        "birthDate": "1902-03-06",
+        "imageUrl": "https://example.com/images/teams/real-madrid.jpg",
+        "league": "La Liga",
+        "titles": [
+            "La Liga",
+            "Champions League",
+            "Copa del Rey"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-002",
+            "name": "Kylian Mbappé",
+            "club": "Real Madrid",
+            "position": "Forward",
+            "shirtNumber": 7,
+            "imageUrl": "https://example.com/images/players/mbappe.jpg",
+            "marketValueMillion": 180
+        }
+    },
+    {
+        "id": "TEAM-003",
+        "name": "Real Madrid",
+        "description": "Madrid’s midfield and attack led by a generational talent.",
+        "age": 122,
+        "isActive": true,
+        "birthDate": "1902-03-06",
+        "imageUrl": "https://example.com/images/teams/real-madrid.jpg",
+        "league": "La Liga",
+        "titles": [
+            "La Liga",
+            "Champions League",
+            "Copa del Rey"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-003",
+            "name": "Jude Bellingham",
+            "club": "Real Madrid",
+            "position": "Midfielder",
+            "shirtNumber": 5,
+            "imageUrl": "https://example.com/images/players/bellingham.jpg",
+            "marketValueMillion": 150
+        }
+    },
+    {
+        "id": "TEAM-004",
+        "name": "Bayern Munich",
+        "description": "German champions known for their tactical strength and consistent success.",
+        "age": 124,
+        "isActive": true,
+        "birthDate": "1900-02-27",
+        "imageUrl": "https://example.com/images/teams/bayern.jpg",
+        "league": "Bundesliga",
+        "titles": [
+            "Bundesliga",
+            "DFB-Pokal",
+            "Champions League"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-004",
+            "name": "Harry Kane",
+            "club": "Bayern Munich",
+            "position": "Striker",
+            "shirtNumber": 9,
+            "imageUrl": "https://example.com/images/players/kane.jpg",
+            "marketValueMillion": 110
+        }
+    },
+    {
+        "id": "TEAM-005",
+        "name": "Manchester City",
+        "description": "Premier League giants with a potent attack.",
+        "age": 144,
+        "isActive": true,
+        "birthDate": "1880-04-23",
+        "imageUrl": "https://example.com/images/teams/man-city.jpg",
+        "league": "Premier League",
+        "titles": [
+            "Premier League",
+            "FA Cup",
+            "Champions League"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-005",
+            "name": "Erling Haaland",
+            "club": "Manchester City",
+            "position": "Striker",
+            "shirtNumber": 9,
+            "imageUrl": "https://example.com/images/players/haaland.jpg",
+            "marketValueMillion": 180
+        }
+    },
+    {
+        "id": "TEAM-006",
+        "name": "Inter Milan",
+        "description": "Italian club blending defense and attack effectively.",
+        "age": 116,
+        "isActive": true,
+        "birthDate": "1908-03-09",
+        "imageUrl": "https://example.com/images/teams/inter.jpg",
+        "league": "Serie A",
+        "titles": [
+            "Serie A",
+            "Coppa Italia"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-006",
+            "name": "Lautaro Martínez",
+            "club": "Inter Milan",
+            "position": "Striker",
+            "shirtNumber": 10,
+            "imageUrl": "https://example.com/images/players/lautaro.jpg",
+            "marketValueMillion": 95
+        }
+    },
+    {
+        "id": "TEAM-007",
+        "name": "Liverpool FC",
+        "description": "English club with rich history and attacking play.",
+        "age": 132,
+        "isActive": true,
+        "birthDate": "1892-06-03",
+        "imageUrl": "https://example.com/images/teams/liverpool.jpg",
+        "league": "Premier League",
+        "titles": [
+            "Premier League",
+            "Champions League"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-007",
+            "name": "Mohamed Salah",
+            "club": "Liverpool FC",
+            "position": "Winger",
+            "shirtNumber": 11,
+            "imageUrl": "https://example.com/images/players/salah.jpg",
+            "marketValueMillion": 65
+        }
+    },
+    {
+        "id": "TEAM-008",
+        "name": "FC Barcelona",
+        "description": "Spanish club famed for its football philosophy and academy.",
+        "age": 125,
+        "isActive": true,
+        "birthDate": "1899-11-29",
+        "imageUrl": "https://example.com/images/teams/barcelona.jpg",
+        "league": "La Liga",
+        "titles": [
+            "La Liga",
+            "Champions League"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-008",
+            "name": "Robert Lewandowski",
+            "club": "FC Barcelona",
+            "position": "Striker",
+            "shirtNumber": 9,
+            "imageUrl": "https://example.com/images/players/lewandowski.jpg",
+            "marketValueMillion": 40
+        }
+    },
+    {
+        "id": "TEAM-009",
+        "name": "Arsenal FC",
+        "description": "English club focusing on technical attacking play.",
+        "age": 138,
+        "isActive": true,
+        "birthDate": "1886-10-01",
+        "imageUrl": "https://example.com/images/teams/arsenal.jpg",
+        "league": "Premier League",
+        "titles": [
+            "Premier League",
+            "FA Cup"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-009",
+            "name": "Bukayo Saka",
+            "club": "Arsenal FC",
+            "position": "Winger",
+            "shirtNumber": 7,
+            "imageUrl": "https://example.com/images/players/saka.jpg",
+            "marketValueMillion": 120
+        }
+    },
+    {
+        "id": "TEAM-010",
+        "name": "Galatasaray",
+        "description": "Turkish powerhouse with pedigree in attack.",
+        "age": 120,
+        "isActive": true,
+        "birthDate": "1902-06-01",
+        "imageUrl": "https://example.com/images/teams/galatasaray.jpg",
+        "league": "Süper Lig",
+        "titles": [
+            "Süper Lig",
+            "Turkish Cup"
+        ],
+        "teamType": "Club",
+        "starPlayer": {
+            "id": "PLY-010",
+            "name": "Victor Osimhen",
+            "club": "Galatasaray",
+            "position": "Striker",
+            "shirtNumber": 9,
+            "imageUrl": "https://example.com/images/players/osimhen.jpg",
+            "marketValueMillion": 130
+        }
+    }
+]

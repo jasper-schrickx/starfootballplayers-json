@@ -19,7 +19,7 @@
         "marketValueMillion": 180,
         "isCaptain": false,
         "club": "Real Madrid",
-        "imageUrl": "https://example.com/images/players/mbappe.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/kylianmbappe.jpg"
     },
     {
         "id": "PLY-003",

@@ -8,7 +8,7 @@
         "marketValueMillion": 70,
         "isCaptain": false,
         "club": "Napoli",
-        "imageUrl": "https://example.com/images/players/debruyne.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/kevindebruyne.jpg"
     },
     {
         "id": "PLY-002",

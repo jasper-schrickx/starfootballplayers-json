@@ -30,7 +30,7 @@
         "marketValueMillion": 150,
         "isCaptain": false,
         "club": "Real Madrid",
-        "imageUrl": "https://example.com/images/players/bellingham.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/judebellingham.png"
     },
     {
         "id": "PLY-004",

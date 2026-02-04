@@ -6,7 +6,7 @@
         "age": 98,
         "isActive": true,
         "birthDate": "1926-08-01",
-        "imageUrl": "https://example.com/images/teams/napoli.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/napoli.png",
         "league": "Serie A",
         "titles": [
             "Serie A",
@@ -30,7 +30,7 @@
         "age": 122,
         "isActive": true,
         "birthDate": "1902-03-06",
-        "imageUrl": "https://example.com/images/teams/real-madrid.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/realmadrid.jpg",
         "league": "La Liga",
         "titles": [
             "La Liga",
@@ -55,7 +55,7 @@
         "age": 122,
         "isActive": true,
         "birthDate": "1902-03-06",
-        "imageUrl": "https://example.com/images/teams/real-madrid.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/realmadrid.jpg",
         "league": "La Liga",
         "titles": [
             "La Liga",
@@ -80,7 +80,7 @@
         "age": 124,
         "isActive": true,
         "birthDate": "1900-02-27",
-        "imageUrl": "https://example.com/images/teams/bayern.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/bayernmunchen.jpg",
         "league": "Bundesliga",
         "titles": [
             "Bundesliga",
@@ -105,7 +105,7 @@
         "age": 144,
         "isActive": true,
         "birthDate": "1880-04-23",
-        "imageUrl": "https://example.com/images/teams/man-city.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/manchestercity.jpg",
         "league": "Premier League",
         "titles": [
             "Premier League",
@@ -130,7 +130,7 @@
         "age": 116,
         "isActive": true,
         "birthDate": "1908-03-09",
-        "imageUrl": "https://example.com/images/teams/inter.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/intermilaan.jpg",
         "league": "Serie A",
         "titles": [
             "Serie A",
@@ -154,7 +154,7 @@
         "age": 132,
         "isActive": true,
         "birthDate": "1892-06-03",
-        "imageUrl": "https://example.com/images/teams/liverpool.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/liverpool.png",
         "league": "Premier League",
         "titles": [
             "Premier League",
@@ -178,7 +178,7 @@
         "age": 125,
         "isActive": true,
         "birthDate": "1899-11-29",
-        "imageUrl": "https://example.com/images/teams/barcelona.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/fcbarcelona.jpg",
         "league": "La Liga",
         "titles": [
             "La Liga",
@@ -202,7 +202,7 @@
         "age": 138,
         "isActive": true,
         "birthDate": "1886-10-01",
-        "imageUrl": "https://example.com/images/teams/arsenal.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/arsenal.png",
         "league": "Premier League",
         "titles": [
             "Premier League",
@@ -226,7 +226,7 @@
         "age": 120,
         "isActive": true,
         "birthDate": "1902-06-01",
-        "imageUrl": "https://example.com/images/teams/galatasaray.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/galatasaray.jpg",
         "league": "Süper Lig",
         "titles": [
             "Süper Lig",

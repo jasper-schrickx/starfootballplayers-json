@@ -52,7 +52,7 @@
         "marketValueMillion": 180,
         "isCaptain": false,
         "club": "Manchester City",
-        "imageUrl": "https://example.com/images/players/haaland.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/erlinghaaland.jpg"
     },
     {
         "id": "PLY-006",
@@ -63,7 +63,7 @@
         "marketValueMillion": 95,
         "isCaptain": true,
         "club": "Inter Milan",
-        "imageUrl": "https://example.com/images/players/lautaro.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/lautaromartinez.jpg"
     },
     {
         "id": "PLY-007",
@@ -74,7 +74,7 @@
         "marketValueMillion": 65,
         "isCaptain": false,
         "club": "Liverpool FC",
-        "imageUrl": "https://example.com/images/players/salah.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/mohamedsalah.jpg"
     },
     {
         "id": "PLY-008",
@@ -85,7 +85,7 @@
         "marketValueMillion": 40,
         "isCaptain": false,
         "club": "FC Barcelona",
-        "imageUrl": "https://example.com/images/players/lewandowski.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/robertlewandowski.jpg"
     },
     {
         "id": "PLY-009",
@@ -96,7 +96,7 @@
         "marketValueMillion": 120,
         "isCaptain": false,
         "club": "Arsenal FC",
-        "imageUrl": "https://example.com/images/players/saka.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/bukayosaka.jpg"
     },
     {
         "id": "PLY-010",
@@ -107,6 +107,6 @@
         "marketValueMillion": 130,
         "isCaptain": false,
         "club": "Galatasaray",
-        "imageUrl": "https://example.com/images/players/osimhen.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/victorosimhen.jpg"
     }
 ]

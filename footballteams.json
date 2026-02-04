@@ -19,7 +19,7 @@
             "club": "Napoli",
             "position": "Midfielder",
             "shirtNumber": 11,
-            "imageUrl": "https://example.com/images/players/debruyne.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/kevindebruyne.jpg",
             "marketValueMillion": 70
         }
     },
@@ -44,7 +44,7 @@
             "club": "Real Madrid",
             "position": "Forward",
             "shirtNumber": 7,
-            "imageUrl": "https://example.com/images/players/mbappe.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/kylianmbappe.jpg",
             "marketValueMillion": 180
         }
     },
@@ -69,7 +69,7 @@
             "club": "Real Madrid",
             "position": "Midfielder",
             "shirtNumber": 5,
-            "imageUrl": "https://example.com/images/players/bellingham.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/judebellingham.png",
             "marketValueMillion": 150
         }
     },
@@ -94,7 +94,7 @@
             "club": "Bayern Munich",
             "position": "Striker",
             "shirtNumber": 9,
-            "imageUrl": "https://example.com/images/players/kane.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/harrykane.jpg",
             "marketValueMillion": 110
         }
     },
@@ -119,7 +119,7 @@
             "club": "Manchester City",
             "position": "Striker",
             "shirtNumber": 9,
-            "imageUrl": "https://example.com/images/players/haaland.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/erlinghaaland.jpg",
             "marketValueMillion": 180
         }
     },
@@ -143,7 +143,7 @@
             "club": "Inter Milan",
             "position": "Striker",
             "shirtNumber": 10,
-            "imageUrl": "https://example.com/images/players/lautaro.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/lautaromartinez.jpg",
             "marketValueMillion": 95
         }
     },
@@ -167,7 +167,7 @@
             "club": "Liverpool FC",
             "position": "Winger",
             "shirtNumber": 11,
-            "imageUrl": "https://example.com/images/players/salah.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/mohamedsalah.jpg",
             "marketValueMillion": 65
         }
     },
@@ -191,7 +191,7 @@
             "club": "FC Barcelona",
             "position": "Striker",
             "shirtNumber": 9,
-            "imageUrl": "https://example.com/images/players/lewandowski.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/robertlewandowski.jpg",
             "marketValueMillion": 40
         }
     },
@@ -215,7 +215,7 @@
             "club": "Arsenal FC",
             "position": "Winger",
             "shirtNumber": 7,
-            "imageUrl": "https://example.com/images/players/saka.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/bukayosaka.jpg",
             "marketValueMillion": 120
         }
     },
@@ -239,7 +239,7 @@
             "club": "Galatasaray",
             "position": "Striker",
             "shirtNumber": 9,
-            "imageUrl": "https://example.com/images/players/osimhen.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/victorosimhen.jpg",
             "marketValueMillion": 130
         }
     }

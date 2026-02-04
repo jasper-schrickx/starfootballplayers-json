@@ -41,7 +41,7 @@
         "marketValueMillion": 110,
         "isCaptain": true,
         "club": "Bayern Munich",
-        "imageUrl": "https://example.com/images/players/kane.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/jasper-schrickx/starfootballplayers-json/refs/heads/main/images/harrykane.jpg"
     },
     {
         "id": "PLY-005",
